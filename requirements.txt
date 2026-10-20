@@ -1,0 +1,15 @@
+rdkit
+pandas
+numpy
+scipy
+scikit-learn
+statsmodels
+matplotlib
+seaborn
+lightgbm
+ipykernel
+xgboost
+catboost
+mordredcommunity
+optuna
+pyarrow
